@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fabrício\\Desktop\\IdSoftware\\IdSoftware.csproj": {}
+    "C:\\Users\\Fabrício\\Documents\\repositorio local git\\IdSoftware\\IdSoftware.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fabrício\\Desktop\\IdSoftware\\IdSoftware.csproj": {
+    "C:\\Users\\Fabrício\\Documents\\repositorio local git\\IdSoftware\\IdSoftware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fabrício\\Desktop\\IdSoftware\\IdSoftware.csproj",
+        "projectUniqueName": "C:\\Users\\Fabrício\\Documents\\repositorio local git\\IdSoftware\\IdSoftware.csproj",
         "projectName": "IdSoftware",
-        "projectPath": "C:\\Users\\Fabrício\\Desktop\\IdSoftware\\IdSoftware.csproj",
+        "projectPath": "C:\\Users\\Fabrício\\Documents\\repositorio local git\\IdSoftware\\IdSoftware.csproj",
         "packagesPath": "C:\\Users\\Fabrício\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fabrício\\Desktop\\IdSoftware\\obj\\",
+        "outputPath": "C:\\Users\\Fabrício\\Documents\\repositorio local git\\IdSoftware\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fabrício\\AppData\\Roaming\\NuGet\\NuGet.Config",
